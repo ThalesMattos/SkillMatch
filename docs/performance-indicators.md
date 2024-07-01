@@ -1,0 +1,19 @@
+# Indicadores de Desempenho
+
+| Indicador | Objetivos | Descrição | Fonte de Dados | Fórmula de Cálculo |
+| --- | --- | --- | --- | --- |
+| **Tempo Médio de Publicação** | Melhorar a eficiência da publicação de projetos | Mede o tempo desde o início da criação do projeto até sua publicação no sistema | Logs do sistema | (Tempo total gasto para publicar projetos / Número de projetos publicados) |
+| **Número de Projetos Publicados** | Aumentar o número de projetos na plataforma | Quantidade total de projetos publicados em um período específico | Logs do sistema | Contagem total de projetos publicados por mês |
+| **Taxa de Erro na Publicação** | Reduzir erros na publicação de projetos | Percentual de projetos que não são publicados corretamente devido a erros no preenchimento de informações | Logs do sistema | (Número de projetos com erro / Número total de projetos publicados) x 100 |
+| **Tempo Médio de Busca e Seleção** | Aumentar a eficiência na seleção de freelancers | Tempo médio gasto pelo contratante desde a busca inicial por freelancers até a seleção final | Logs do sistema | (Tempo total gasto na busca e seleção / Número de seleções realizadas) |
+| **Número de Freelancers Selecionados** | Medir a efetividade do processo de seleção | Quantidade de freelancers contratados através do sistema | Logs do sistema | Contagem total de freelancers selecionados por mês |
+| **Taxa de Propostas Aceitas** | Avaliar a qualidade das propostas enviadas | Percentual de propostas enviadas aos freelancers que são aceitas e resultam em contratação | Logs do sistema | (Número de propostas aceitas / Número total de propostas enviadas) x 100 |
+| **Satisfação do Contratante** | Melhorar a experiência do contratante | Avaliação do contratante sobre o processo de busca e seleção | Pesquisas de satisfação | (Soma das notas de satisfação dos contratantes / Número de respostas) |
+| **Tempo Médio de Resposta** | Aumentar a eficiência da comunicação | Tempo médio que o freelancer e o contratante levam para responder a mensagens e propostas durante a negociação | Logs do sistema | (Tempo total de resposta / Número de mensagens trocadas) |
+| **Número de Mensagens Trocadas** | Avaliar a intensidade da comunicação | Quantidade de mensagens trocadas entre o contratante e o freelancer durante a negociação | Logs do sistema | Contagem total de mensagens trocadas por negociação |
+| **Taxa de Acordos Fechados** | Medir a eficácia das negociações | Percentual de negociações que resultam em um acordo final e fechamento do contrato | Logs do sistema | (Número de contratos fechados / Número total de negociações) x 100 |
+| **Satisfação do Freelancer** | Melhorar a experiência do freelancer | Avaliação do freelancer sobre o processo de comunicação e negociação | Pesquisas de satisfação | (Soma das notas de satisfação dos freelancers / Número de respostas) |
+| **Número de Avaliações Recebidas** | Incentivar o feedback dos contratantes | Quantidade de avaliações recebidas pelos freelancers após a conclusão dos projetos | Logs do sistema | Contagem total de avaliações recebidas por freelancer |
+| **Pontuação Média dos Freelancers** | Avaliar a qualidade dos freelancers | Média das notas atribuídas aos freelancers nas avaliações | Logs do sistema | (Soma das notas recebidas pelos freelancers / Número total de avaliações) |
+| **Taxa de Feedback Positivo** | Medir a qualidade do trabalho dos freelancers | Percentual de feedbacks positivos recebidos pelos freelancers | Logs do sistema | (Número de feedbacks positivos / Número total de feedbacks) x 100 |
+| **Tempo Médio de Avaliação** | Aumentar a eficiência do feedback | Tempo médio gasto pelo contratante para completar a avaliação e feedback após a conclusão do projeto | Logs do sistema | (Tempo total para completar avaliações / Número de avaliações) |

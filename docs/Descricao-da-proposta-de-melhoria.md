@@ -1,0 +1,1 @@
+O SkillMatch visa aprimorar a comunicação entre contratantes e profissionais freelancers, facilitando a busca e seleção dos melhores perfis para ambos. A comunicação pode ser importante até mesmo após o processo ser concluído, alertando os próximos contratantes ou até mesmo os próximos freelancers da qualidade do trabalho de ambas as partes. 

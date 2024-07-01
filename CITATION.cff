@@ -1,0 +1,35 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Araújo Santos
+    given-names: Arthur 
+  - family-names: Fernandes Ferreira Silva
+    given-names: Davi 
+  - family-names: Jácome Magalhães de Jesus
+    given-names: Lucas
+  - family-names: Ribeiro do Nascimento
+    given-names: Lucas 
+  - family-names: Carvalho Mattos
+    given-names: Thales
+  - family-names: Ferreira de Almeida
+    given-names: Victor
+
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Baroni De Carvalho
+    given-names: Juliana Amaral 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: De Brito
+    given-names: Aline Norberta
+    keywords:
+    - 
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 26/06/2024

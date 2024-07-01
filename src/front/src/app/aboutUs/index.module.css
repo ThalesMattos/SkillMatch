@@ -1,0 +1,6 @@
+/* Estilo para adicionar desfoque quando o mouse passa por cima */
+.imageContainer:hover img {
+    opacity: 0.8; /* Define a opacidade da imagem quando o mouse passa por cima (80% de opacidade) */
+    transform: scale(0.95); /* Diminui a escala da imagem (95% do tamanho original) */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Adiciona uma transição suave */
+  }
